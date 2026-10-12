@@ -14,6 +14,8 @@
 * A JUnit source code to demonstrate the Unit Testing, TDD & DDT technique\
 * A CI script to check and build the project automatically with GitHub Actions\
 \
+ ###screenshot\
+![M\'f4 t\uc0\u7843  \u7843 nh](Screenshot/IMG_2268.jpg)\
 #### Connect me via: nguyenphatxm20@gmail.com\
 \
 ##### &#164; 2026 - ntnphat20}
